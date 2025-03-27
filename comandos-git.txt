@@ -1,0 +1,49 @@
+## COMANDOS DE NAVEGAÇÃO
+
+**dir** - Lista todos os diretórios;
+
+**cd** **[nome do diretório]** - Acessa um diretório;
+
+**cd [caminho do diretório] -** Acessa um diretório específico diretamente;
+
+**cd ..** - Volta um diretório;
+
+**cd ~**  - Avança um diretório;
+
+**ctrl + L** - Limpa o Prompt;
+
+**clear** - Limpa o Prompt;
+
+## COMANDOS DE CRIAÇÃO/EXCLUSÃO
+
+**mkdir** - Cria uma pasta;
+
+**mv [nome atual do diretório] [novo nome] -** Renomeia um diretório;
+
+**mv [caminho atual do arquivo] [caminho desejado] -** move um arquivo;
+
+**rmdir [nome do diretório]** - Apaga um diretório vazio;
+
+**rm -d**  - Apaga um diretório vazio;
+
+**rm -r** - Apaga um diretório mesmo que tenha arquivos dentro;
+
+**touch [nome do arquivo.[formato do arquivo]]** - Cria um arquivo;
+
+## COMANDOS DO GIT
+
+**git init** - ****Inicia um repositório vazio;
+
+**git add . -** Adiciona um arquivo ao stage;
+
+**git status** - Exibe o status do repositório no git;
+
+**git commit -m** - Sobe commit pro github com um comentário;
+
+**git remote add origin https://github.com/JotapeSilva01/Projeto-grafico.git** - adicionar um repositório remoto ao seu projeto local no Git.;
+
+**git remote -v** - visualizar todos os repositórios remotos que estão configurados no seu repositório local, juntamente com as URLs associadas a eles.;
+
+**git push -u origin main** - enviar mudanças locais em um repositório para um repositório remoto
+
+**git push -u origin main —force** - Força um commit ao repositório;
